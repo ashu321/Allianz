@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-allianz"
+    }
+  },
+  "defaultProject": "angular-allianz",
+  "cli": {
+    "analytics": "ea231066-2ce9-43c0-aa09-7511ed4e8d81"
+  }
 }
